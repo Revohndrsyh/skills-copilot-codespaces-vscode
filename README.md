@@ -1,3 +1,5 @@
+HEAD
+
 <header>
 
 <!--
@@ -35,7 +37,7 @@ GitHub Copilot can help you code by offering autocomplete-style suggestions. You
 
 1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork this repository.
 2. Right-click **Start course** and open the link in a new tab.
-   
+
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
@@ -69,3 +71,8 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+# skills-copilot-codespaces-vscode
+
+My clone repository
+7b4c3ef396f78e611aa512f90ec38f27c9209e4f
